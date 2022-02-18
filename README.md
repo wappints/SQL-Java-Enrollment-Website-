@@ -1,5 +1,11 @@
 # SQL-Java-Enrollment-Website-
-2nd Year | 1st Term Project 
+1st Term Project | Sophomore Year
 
 Authors: Isabel Tendido, Yeohan Norona, Jacob Dy, Vincent Bacayan
 
+A simple school enrollment website with implementations of JSP, Java, and SQL.
+
+## Instructions in running the website 
+1. Install Netbeans as your IDE for this repository
+2. Import the necessary files as the project
+3. Right-click the project parent directory then click on `Run Project` under Run menu.
